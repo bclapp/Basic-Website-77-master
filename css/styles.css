@@ -1,4 +1,34 @@
 /* Main Navigation */
+.container_12{
+	background-color: orange;	
+}
+/* LOGO*/
+#logo{
+	background-color: #9F6;
+}
+/*Co.Name*/
+#coname{
+	background-color:#F09;
+}
+/*Nav*/
+#nav{
+	background-color: #93C;
+}
+
+#aside{
+	background:#C09;
+}
+
+#main{
+	background:#FF9;
+}
+/*LOGO*/
+img{
+	border: 10px solid black;
+	padding: 10px;
+	margin: 20px;
+	border-radius: 90px;
+	box-shadow: 10px 10px 10px pink,-10px -10px 0px green;
 li {
   background: orange;
   display: inline;
